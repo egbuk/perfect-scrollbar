@@ -114,3 +114,6 @@
     overflow: auto !important;
   }
 }
+.ps__rail-y {
+    top: 218px !important;
+}
